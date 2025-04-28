@@ -27,7 +27,7 @@ This project was developed as part of an academic assignment, inspired by the ne
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/study-buddy.git
+   git clone https://github.com/ysamat/study-buddy.git
    cd study-buddy
    ```
 2. Install dependencies:
